@@ -9,7 +9,7 @@ import time
 # Replace 'YOUR_SHODAN_API_KEY' with your actual key.
 # Warning: Paginating through all results will consume API credits (1 per page).
 
-API_KEY = 'xRXYZ4P4zqG0i73BNH0hcQCAPwLHWTTs'
+API_KEY = 'YOUR_API_KEY_HERE'
 
 def is_domain_alive(hostname):
     """
